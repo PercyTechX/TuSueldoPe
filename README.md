@@ -1,4 +1,3 @@
-# TuSueldoPe
 # 💼 TuSueldo.pe — Calculadora de Sueldo Neto para Perú
 
 ![Logo TuSueldo.pe](https://raw.githubusercontent.com/PercyTechX/TuSueldoPe/refs/heads/main/img-proyecto-tusueldope-rectancular.png)  
