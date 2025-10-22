@@ -1,8 +1,8 @@
 # TuSueldoPe
 # 💼 TuSueldo.pe — Calculadora de Sueldo Neto para Perú
 
-![Captura de pantalla de TuSueldo.pe](https://raw.githubusercontent.com/tu-usuario/tusueldo-pe/main/screenshot.png)  
-*(Opcional: agrega una imagen real en tu repo y actualiza la ruta)*
+![Logo TuSueldo.pe](https://raw.githubusercontent.com/PercyTechX/TuSueldoPe/refs/heads/main/img-proyecto-tusueldope-rectancular.png)  
+
 
 **TuSueldo.pe** es una herramienta web gratuita y sencilla que te permite calcular tu **sueldo neto mensual en Perú**, desglosando los descuentos obligatorios según el sistema de pensiones que elijas (AFP u ONP).
 
