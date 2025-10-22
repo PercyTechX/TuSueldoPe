@@ -1,4 +1,4 @@
-# 💼 TuSueldo.pe — Calculadora de Sueldo Neto para Perú
+# 💼 TuSueldo.pe — Calculadora de Beneficios Laborales para Perú
 
 ![Logo TuSueldo.pe](https://raw.githubusercontent.com/PercyTechX/TuSueldoPe/refs/heads/main/img-proyecto-tusueldope-rectancular.png)  
 
